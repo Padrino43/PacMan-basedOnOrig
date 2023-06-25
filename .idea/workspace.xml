@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3744841d-1b7d-4fe2-b026-872a960f0df4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OkfyaPO4FA7ipy3Il0HTfm988u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mkubi/Desktop/pacman&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mkubi\Desktop\programowanie\GUI\SWING\GUI_DZ_2223L_PRO2_GR32c_s27802_IntelliJ\src\pl\game\pacman" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mkubi\Desktop\programowanie\GUI\SWING\GUI_DZ_2223L_PRO2_GR32c_s27802_IntelliJ\src\pl\game\pacman" />
+      <recent name="C:\Users\mkubi\Desktop\programowanie\GUI\SWING\GUI_DZ_2223L_PRO2_GR32c_s27802_IntelliJ\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.game.pacman.Main" />
+      <module name="GUI_DZ_2223L_PRO2_GR32c_s27802_IntelliJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.game.pacman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MazeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.game.pacman.MazeGenerator" />
+      <module name="GUI_DZ_2223L_PRO2_GR32c_s27802_IntelliJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.game.pacman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.game.pacman.test" />
+      <module name="GUI_DZ_2223L_PRO2_GR32c_s27802_IntelliJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.game.pacman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.MazeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3744841d-1b7d-4fe2-b026-872a960f0df4" name="Changes" comment="" />
+      <created>1682109756253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682109756253</updated>
+      <workItem from="1682109757262" duration="555000" />
+      <workItem from="1682172281060" duration="2000" />
+      <workItem from="1682687235393" duration="4410000" />
+      <workItem from="1682696161796" duration="3477000" />
+      <workItem from="1682801911312" duration="12121000" />
+      <workItem from="1682847644523" duration="14000" />
+      <workItem from="1682881932166" duration="216000" />
+      <workItem from="1682947535611" duration="10754000" />
+      <workItem from="1682970599893" duration="3280000" />
+      <workItem from="1683025327660" duration="24683000" />
+      <workItem from="1683114715933" duration="2842000" />
+      <workItem from="1683128772114" duration="3739000" />
+      <workItem from="1683199660131" duration="10510000" />
+      <workItem from="1683279870030" duration="6545000" />
+      <workItem from="1683289597898" duration="438000" />
+      <workItem from="1683297846958" duration="13777000" />
+      <workItem from="1683379448093" duration="3843000" />
+      <workItem from="1683384227714" duration="4821000" />
+      <workItem from="1683396646065" duration="1580000" />
+      <workItem from="1683465462861" duration="18427000" />
+      <workItem from="1683529970976" duration="100000" />
+      <workItem from="1683530080272" duration="2000" />
+      <workItem from="1683531682358" duration="2000" />
+      <workItem from="1683658321533" duration="4434000" />
+      <workItem from="1683749354111" duration="5301000" />
+      <workItem from="1683801084494" duration="12195000" />
+      <workItem from="1683828701251" duration="1386000" />
+      <workItem from="1683920902151" duration="9134000" />
+      <workItem from="1683974325814" duration="10345000" />
+      <workItem from="1683989412860" duration="8910000" />
+      <workItem from="1684000849005" duration="2397000" />
+      <workItem from="1684005764185" duration="1295000" />
+      <workItem from="1684054652192" duration="34241000" />
+      <workItem from="1684151525993" duration="16985000" />
+      <workItem from="1684214025738" duration="16730000" />
+      <workItem from="1684249530507" duration="11923000" />
+      <workItem from="1684311327074" duration="11966000" />
+      <workItem from="1684348676206" duration="10167000" />
+      <workItem from="1684364849801" duration="63000" />
+      <workItem from="1684397027367" duration="18427000" />
+      <workItem from="1687721076539" duration="43000" />
+      <workItem from="1687721122747" duration="8000" />
+      <workItem from="1687721132224" duration="11000" />
+      <workItem from="1687721147665" duration="33000" />
+      <workItem from="1687721197440" duration="75000" />
+      <workItem from="1687721275276" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bin" />
+  </component>
+</project>
